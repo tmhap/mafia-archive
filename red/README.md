@@ -2,8 +2,8 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [1](1) | 3918 | Starting Over | Faith and sparkles | Town | :white_check_mark: [xlsx](../../../raw/main/red/1/spreadsheet.xlsx) \| [ods](../../../raw/main/red/1/spreadsheet.ods) |
 | [2](2) | 7300 | Murder Mystery | ViscaElBarca | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/2/spreadsheet.xlsx) \| [ods](../../../raw/main/red/2/spreadsheet.ods) |
-| 3 | 8602 | Speak Softly Love | Ai |  | Mafia | :white_large_square: |
-| 4 | 9300 | a symphony of chaos | abstrcat and Ai |  | Mafia | :white_large_square: |
+| 3 | 8602 | Speak Softly Love | Ai | Mafia | :white_large_square: |
+| 4 | 9300 | a symphony of chaos | abstrcat and Ai | Mafia | :white_large_square: |
 | 5 | 10361 | One big hangover | Ville, SilentNN and duckduckgo | Mafia | :white_large_square: |
 | 6 | 11128 | MAELSTROM | Neo and TheFranswer | Cult | :white_large_square: |
 | 7 | 11886 | Tread Lightly | NanaLynch | Mafia | :white_large_square: |
@@ -22,12 +22,12 @@
 | 20 | 24057 | Hand in Hand | EHS | Mafia | :white_large_square: |
 | 21 | 24655 | What to Believe | EHS | Town | :white_large_square: |
 | 22 | 25140 |  ҉ ҉​.​·๑ඕั ҉  | phospholipid | Mafia | :white_large_square: |
-| 23 | 25615 | There's a Snake in My Boot hosted by Jakalope | Town and PantsuVor, the Lover | :white_large_square: |
+| 23 | 25615 | There's a Snake in My Boot | Jakalope | Town and PantsuVor, the Lover | :white_large_square: |
 | 24 | 26029 | Enjoy the Silence | EHS | Town | :white_large_square: |
 | 25 | 26546 | Give Me The Night | EHS | Town | :white_large_square: |
 | 26 | 30176 | The Dark Side Of The Moon | TheFranswer and Jon | Mafia and Witch | :white_large_square: |
-| 27 | 37520 | A Classic | | BlueElectro | Mafia and Lovers | :white_large_square: |
-| 28 | 37939 | Another Classic | | BlueElectro | Town | :white_large_square: |
+| 27 | 37520 | A Classic | BlueElectro | Mafia and Lovers | :white_large_square: |
+| 28 | 37939 | Another Classic | BlueElectro | Town | :white_large_square: |
 | 29 | 46454 | New Year's Day | BlueElectro | Mafia | :white_large_square: |
 | 30 | 47795 | New Year's Day 2: Electric Boogaloo | BlueElectro | Mafia | :white_large_square: |
 | 31 | 48384 | Don't Tell Me What I Can't Do! | Jakalope | Town | :white_large_square: |
