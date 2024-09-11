@@ -7,4 +7,4 @@
 * Winner: Town
 * Spreadsheet: [xlsx](../../../../raw/main/red/44/spreadsheet.xlsx) | [ods](../../../../raw/main/red/44/spreadsheet.ods)
 * Dead Chat: https://chathe.net/join/kvqQLJ5ebj
-* Mafia Chat: 
+* Mafia Chat: https://chathe.net/join/G2J7yDleKM
