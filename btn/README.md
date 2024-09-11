@@ -61,10 +61,10 @@
 | 59 | 26003 | Party at kenyz's | ion | Town | :white_large_square: |
 | 60 | 26197 | Untitled | alyrianease | Town | :white_large_square: |
 | 61 | 28706 | Rick & Morty 2 | mkvGOD | Cult | :white_large_square: |
-| 62 | 28825 | It's Always Sunny at BTN | mkvGOD | Town | :white_check_mark: [xlsx](../../../raw/main/btn/62.xlsx) \| [ods](../../../raw/main/btn/62/spreadsheet.ods) |
-| 63 | 29038 | Medieval Madness | mkvGOD | Isengard | :white_check_mark: [xlsx](../../../raw/main/btn/btn-63.xlsx) \| [ods](../../../raw/main/btn/63/spreadsheet.ods) |
+| 62 | 28825 | It's Always Sunny at BTN | mkvGOD | Town | :white_check_mark: [xlsx](../../../raw/main/btn/62/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/62/spreadsheet.ods) |
+| 63 | 29038 | Medieval Madness | mkvGOD | Isengard | :white_check_mark: [xlsx](../../../raw/main/btn/63/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/63/spreadsheet.ods) |
 | 64 | 31279 | Computer Aided Enrichment | TheFranswer | Town | :white_large_square: |
-| 65 | 32137 | Medieval Madness II | mkvGOD | TheFranswer the Rat | :white_check_mark: [xlsx](../../../raw/main/btn/btn-65.xlsx) \| [ods](../../../raw/main/btn/65/spreadsheet.ods) |
-| 66 | 34063 | It's halloween horror time! | Bliepo and TheFranswer | Town | :white_check_mark: [xlsx](../../../raw/main/btn/btn-66.xlsx) \| [ods](../../../raw/main/btn/66/spreadsheet.ods) |
+| 65 | 32137 | Medieval Madness II | mkvGOD | TheFranswer the Rat | :white_check_mark: [xlsx](../../../raw/main/btn/65/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/65/spreadsheet.ods) |
+| 66 | 34063 | It's halloween horror time! | Bliepo and TheFranswer | Town | :white_check_mark: [xlsx](../../../raw/main/btn/66/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/66/spreadsheet.ods) |
 | 67 | 35476 | Scales of Justice | corrigan | Town | :white_large_square: |
 | 68 |  |  |  |  | :white_large_square: |
