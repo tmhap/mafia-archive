@@ -1,9 +1,9 @@
 Status Pages:
 
-* [btn](../../tree/main/btn)
-* [ggn](../../tree/main/ggn)
-* [ptp](../../tree/main/ptp)
-* [red](../../tree/main/red)
+* [btn](../../tree/main/btn#readme)
+* [ggn](../../tree/main/ggn#readme)
+* [ptp](../../tree/main/ptp#readme)
+* [red](../../tree/main/red#readme)
 
 ----
 
