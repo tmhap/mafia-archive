@@ -43,6 +43,6 @@
 | 41 | 58005 | Evil Village | Neo | Cult and wolves | :white_large_square: |
 | 42 | 58838 | The Inexorable Power of Music | btchmistry | Mafia | :white_large_square: |
 | 43 | 60679 | Chromavalon | corrigan | Mafia | :white_large_square: |
-| 44 | 68133 | Back to Basics | sparkles | Town | :white_large_square: |
+| [44](44) | 68133 | Back to Basics | sparkles | Town | :white_check_mark: [xlsx](../../../raw/main/red/44/spreadsheet.xlsx)\| [ods](../../../raw/main/red/44/spreadsheet.ods) |
 | [45](45) | 68326 | Oh what a day, what a lovely day! | sparkles | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/45/spreadsheet.xlsx)\| [ods](../../../raw/main/red/45/spreadsheet.ods) |
 | 46 |  |  |  |  | :white_large_square: |
