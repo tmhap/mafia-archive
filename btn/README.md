@@ -9,19 +9,19 @@
 | 7 | 20530 | Stormy Times | Faith | Mafia | :white_large_square: (image gone) |
 | 8 | 20559 | Merry X'mas and Happy New Year | joeytribbiani | Stalemate | :white_check_mark: [png](../../../raw/main/btn/8/spreadsheet.png) |
 | 9 | 20613 | Death Comes to Town | GhostRaver | Mafia | :white_check_mark: [png](../../../raw/main/btn/9/spreadsheet.png) |
-| 10 | 20661 | The Conspiracy | Faith | Town | :white_check_mark: [xlsx](../../../raw/main/btn/10/spreadsheet.xlsx) |
+| 10 | 20661 | The Conspiracy | Faith | Town | :white_check_mark: [xlsx](../../../raw/main/btn/10/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/10/spreadsheet.ods) |
 | 11 | 20726 | Boat To Nowhere | TheFranswer | Loyal Crew (Town) | :white_large_square: (image gone) |
 | 12 | 20796 | Ghost's Psycho Horror Show | GhostRaver | League of Assassins (Mafia) | :white_large_square: (file share gone) |
 | 13 | 20865 | Insanity | GhostRaver | Town | :white_large_square: (google drive gone) |
 | 14 | 20920 | Prisoner Mafia | TheFranswer | Prisoners (Town) | :white_large_square: (image gone) |
 | 15 | 20998 | Orc Special | orctin | Cult | :white_large_square: (end of game lost) |
 | 16 | Game lost | due to site data loss | nanalynch | (Mafia Expected) | :white_large_square: (google drive gone) |
-| 17 | 21036 | 00010001 | TheFranswer | Nealefelaen the Cult Member & Katara the Witch | :white_large_square: |
-| 18 | 21114 | Old School Mafia | nanalynch | Town | :white_large_square: |
-| 19 | 21163 | Banshee | joeytribbiani and esker | Town | :white_large_square: |
-| 20 | 21217 | Shall We Play a Game? | orctin | Town | :white_check_mark: [xlsx](../../../raw/main/btn/20/spreadsheet.xlsx) |
-| 21 | 21249 | Batter Up | orctin | Town | :white_large_square: |
-| 22 | 21304 | The Future at Stake | Faith | Town | :white_large_square: |
+| 17 | 21036 | 00010001 | TheFranswer | Nealefelaen the Cult Member & Katara the Witch | :white_large_square: (file share gone) |
+| 18 | 21114 | Old School Mafia | nanalynch | Town | :white_check_mark: [xlsx](../../../raw/main/btn/18/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/18/spreadsheet.ods) |
+| 19 | 21163 | Banshee | joeytribbiani and esker | Town | :white_check_mark: [xlsx](../../../raw/main/btn/19/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/19/spreadsheet.ods) |
+| 20 | 21217 | Shall We Play a Game? | orctin | Town | :white_check_mark: [xlsx](../../../raw/main/btn/20/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/20/spreadsheet.ods) |
+| 21 | 21249 | Batter Up | orctin | Town | :white_check_mark: [xlsx](../../../raw/main/btn/21/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/21/spreadsheet.ods) |
+| 22 | 21304 | The Future at Stake | Faith | Town | :white_check_mark: [xlsx](../../../raw/main/btn/22/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/22/spreadsheet.ods) |
 | 23 | 21367 | Small Town Mystery | GhostRaver | Town | :white_large_square: |
 | 24 | 21421 | Strung up from the Sky | nanalynch and Ineluctable | Faith & Katara the Aliens | :white_large_square: |
 | 25 | 21469 | The Gift of Death | nanalynch and Katara | joeytribibani and orctin the Lovers | :white_large_square: |
