@@ -13,10 +13,10 @@
 | 11 | 20726 | Boat To Nowhere | TheFranswer | Loyal Crew (Town) | :white_large_square: (image gone) |
 | 12 | 20796 | Ghost's Psycho Horror Show | GhostRaver | League of Assassins (Mafia) | :white_large_square: (file share gone) |
 | 13 | 20865 | Insanity | GhostRaver | Town | :white_large_square: (google drive gone) |
-| 14 | 20920 | Prisoner Mafia | TheFranswer | Prisoners (Town) | :white_large_square: (image gone) |
+| 14 | 20920 | Prisoner Mafia | TheFranswer | Prisoners (Town) | :white_check_mark: [xls](../../../raw/main/btn/14/spreadsheet.xls) |
 | 15 | 20998 | Orc Special | orctin | Cult | :white_large_square: (end of game lost) |
 | 16 | Game lost | due to site data loss | nanalynch | (Mafia Expected) | :white_large_square: (google drive gone) |
-| 17 | 21036 | 00010001 | TheFranswer | Nealefelaen the Cult Member & Katara the Witch | :white_large_square: (file share gone) |
+| 17 | 21036 | 00010001 | TheFranswer | Nealefelaen the Cult Member & Katara the Witch | :white_check_mark: [xls](../../../raw/main/btn/17/spreadsheet.xls) |
 | 18 | 21114 | Old School Mafia | nanalynch | Town | :white_check_mark: [xlsx](../../../raw/main/btn/18/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/18/spreadsheet.ods) |
 | 19 | 21163 | Banshee | joeytribbiani and esker | Town | :white_check_mark: [xlsx](../../../raw/main/btn/19/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/19/spreadsheet.ods) |
 | 20 | 21217 | Shall We Play a Game? | orctin | Town | :white_check_mark: [xlsx](../../../raw/main/btn/20/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/20/spreadsheet.ods) |
@@ -25,7 +25,7 @@
 | 23 | 21367 | Small Town Mystery | GhostRaver | Town | :white_large_square: |
 | 24 | 21421 | Strung up from the Sky | nanalynch and Ineluctable | Faith & Katara the Aliens | :white_large_square: |
 | 25 | 21469 | The Gift of Death | nanalynch and Katara | joeytribibani and orctin the Lovers | :white_large_square: |
-| 26 | 21519 | Through the Stargate | TheFranswer | Town | :white_large_square: |
+| 26 | 21519 | Through the Stargate | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/btn/26/spreadsheet.xls) |
 | 27 | 21641 | Another Beautiful Day | orctin | Mafia | :white_large_square: |
 | 28 | 21749 | Halloween Massacre | GhostRaver | Mafia | :white_large_square: |
 | 29 | 21852 | Pretty Little Liars | esker | Stalemate | :white_large_square: |
@@ -33,12 +33,12 @@
 | 31 | 22107 | Battle of the Gods | orctin | The Egyptians (Mafia) | :white_large_square: |
 | 32 | 22239 | Simpsons did it | Palindrome | Mafia | :white_large_square: |
 | 33 | 22360 | Mystery Hotel | GhostRaver | Town | :white_large_square: |
-| 34 | 22466 | Villainous Intent | TheFranswer | Town | :white_large_square: |
+| 34 | 22466 | Villainous Intent | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/btn/34/spreadsheet.xls) |
 | 35 | 22579 | Game #35 | orctin | Mafia | :white_large_square: |
 | 36 | 22665 | No Funny "Bus"iness | orctin | Town | :white_large_square: |
 | 37 | 22743 | Battlestar Galactica | Palindrome | Town | :white_large_square: |
 | 38 | 22859 | Trust Issues | orctin and Targaryen | Squad of Fury (Mafia) | :white_large_square: |
-| 39 | 22958 | Words Have Power | TheFranswer | JackInTheBox the Psycho | :white_large_square: |
+| 39 | 22958 | Words Have Power | TheFranswer | JackInTheBox the Psycho | :white_check_mark: [xls](../../../raw/main/btn/39/spreadsheet.xls) |
 | 40 | 23026 | Dexter | GhostRaver | Town | :white_large_square: |
 | 41 | 23119 | The World at War | distructospin | The Allies (Town) | :white_large_square: |
 | 42 | 23169 | Seinfeld | ricercar | Mafia | :white_large_square: |
@@ -48,7 +48,7 @@
 | 46 | 23577 | The Awesomeness of Cats | Faith and esker | Town | :white_large_square: |
 | 47 | 23693 | Rick & Morty | mkvGOD | Faith & phphospholipid (Rick & Morty) | :white_large_square: |
 | 48 | 23795 | Monty Python | MrMichael and JackInTheBox | Town | :white_check_mark: [xlsx](../../../raw/main/btn/48/spreadsheet.xlsx) |
-| 49 | 23949 | Don't Panic | TheFranswer | Mafia | :white_large_square: |
+| 49 | 23949 | Don't Panic | TheFranswer | Mafia | :white_check_mark: [xls](../../../raw/main/btn/49/spreadsheet.xls) |
 | 50 | 24063 | The Burden of Proof | mkvGOD | Mafia | :white_large_square: |
 | 51 | 24161 | Archer | HHughes and MrMichael | Town | :white_large_square: |
 | 52 | 24482 | Chaos in South Park | mkvGOD and MrMichael | Town | :white_large_square: |
@@ -56,7 +56,7 @@
 | 54 | 24981 | KISS and Make Up | esker | Yakuza | :white_large_square: |
 | 55 | 25094 | The Simple Things in Life | mkvGOD | Town | :white_large_square: |
 | 56 | 25311 | It's just a game | Bliepo | Stalemate | :white_large_square: |
-| 57 | 25430 | Free Enterprise | TheFranswer | Town and Third Party | :white_large_square: |
+| 57 | 25430 | Free Enterprise | TheFranswer | Town and Third Party | :white_check_mark: [xls](../../../raw/main/btn/57/spreadsheet.xls) |
 | 58 | 25778 | Get a Clue | TimeLine | Town | :white_large_square: |
 | 59 | 26003 | Party at kenyz's | ion | Town | :white_large_square: |
 | 60 | 26197 | Untitled | alyrianease | Town | :white_large_square: |
