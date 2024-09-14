@@ -22,9 +22,9 @@
 | 20 | 21217 | Shall We Play a Game? | orctin | Town | :white_check_mark: [xlsx](../../../raw/main/btn/20/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/20/spreadsheet.ods) |
 | 21 | 21249 | Batter Up | orctin | Town | :white_check_mark: [xlsx](../../../raw/main/btn/21/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/21/spreadsheet.ods) |
 | 22 | 21304 | The Future at Stake | Faith | Town | :white_check_mark: [xlsx](../../../raw/main/btn/22/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/22/spreadsheet.ods) |
-| 23 | 21367 | Small Town Mystery | GhostRaver | Town | [xlsx](../../../raw/main/btn/23/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/23/spreadsheet.ods) |
-| 24 | 21421 | Strung up from the Sky | nanalynch and Ineluctable | Faith & Katara the Aliens | :white_large_square: |
-| 25 | 21469 | The Gift of Death | nanalynch and Katara | joeytribibani and orctin the Lovers | :white_large_square: |
+| 23 | 21367 | Small Town Mystery | GhostRaver | Town | :white_check_mark: [xlsx](../../../raw/main/btn/23/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/23/spreadsheet.ods) |
+| 24 | 21421 | Strung up from the Sky | nanalynch and Ineluctable | Faith & Katara the Aliens | :white_check_mark: [xlsx](../../../raw/main/btn/24/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/24/spreadsheet.ods) |
+| 25 | 21469 | The Gift of Death | nanalynch and Katara | joeytribibani and orctin the Lovers | :white_check_mark: [xlsx](../../../raw/main/btn/25/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/25/spreadsheet.ods) |
 | 26 | 21519 | Through the Stargate | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/btn/26/spreadsheet.xls) |
 | 27 | 21641 | Another Beautiful Day | orctin | Mafia | :white_large_square: |
 | 28 | 21749 | Halloween Massacre | GhostRaver | Mafia | :white_large_square: |
