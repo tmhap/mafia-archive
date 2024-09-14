@@ -26,9 +26,9 @@
 | 24 | 21421 | Strung up from the Sky | nanalynch and Ineluctable | Faith & Katara the Aliens | :white_check_mark: [xlsx](../../../raw/main/btn/24/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/24/spreadsheet.ods) |
 | 25 | 21469 | The Gift of Death | nanalynch and Katara | joeytribibani and orctin the Lovers | :white_check_mark: [xlsx](../../../raw/main/btn/25/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/25/spreadsheet.ods) |
 | 26 | 21519 | Through the Stargate | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/btn/26/spreadsheet.xls) |
-| 27 | 21641 | Another Beautiful Day | orctin | Mafia | :white_large_square: |
-| 28 | 21749 | Halloween Massacre | GhostRaver | Mafia | :white_large_square: |
-| 29 | 21852 | Pretty Little Liars | esker | Stalemate | :white_large_square: |
+| 27 | 21641 | Another Beautiful Day | orctin | Mafia | :white_check_mark: [xlsx](../../../../raw/main/btn/27/spreadsheet.xlsx) | [ods](../../../../raw/main/btn/27/spreadsheet.ods) |
+| 28 | 21749 | Halloween Massacre | GhostRaver | Mafia | :white_check_mark: [xlsx](../../../../raw/main/btn/28/spreadsheet.xlsx) | [ods](../../../../raw/main/btn/28/spreadsheet.ods) |
+| 29 | 21852 | Pretty Little Liars | esker | Stalemate | :white_check_mark: [ods](../../../../raw/main/btn/29/spreadsheet.ods) (SS recreated so some info missing) |
 | 30 | 21993 | Mafia with a Twist of Lime | thepineman | Town | :white_large_square: |
 | 31 | 22107 | Battle of the Gods | orctin | The Egyptians (Mafia) | :white_large_square: |
 | 32 | 22239 | Simpsons did it | Palindrome | Mafia | :white_large_square: |
