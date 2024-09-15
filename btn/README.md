@@ -29,7 +29,7 @@
 | 27 | 21641 | Another Beautiful Day | orctin | Mafia | :white_check_mark: [xlsx](../../../../raw/main/btn/27/spreadsheet.xlsx) | [ods](../../../../raw/main/btn/27/spreadsheet.ods) |
 | 28 | 21749 | Halloween Massacre | GhostRaver | Mafia | :white_check_mark: [xlsx](../../../../raw/main/btn/28/spreadsheet.xlsx) | [ods](../../../../raw/main/btn/28/spreadsheet.ods) |
 | 29 | 21852 | Pretty Little Liars | esker | Stalemate | :white_check_mark: [ods](../../../../raw/main/btn/29/spreadsheet.ods) (SS recreated so some info missing) |
-| 30 | 21993 | Mafia with a Twist of Lime | thepineman | Town | :white_large_square: |
+| 30 | 21993 | Mafia with a Twist of Lime | thepineman | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/30/spreadsheet.xlsx) | [ods](../../../../raw/main/btn/30/spreadsheet.ods) |
 | 31 | 22107 | Battle of the Gods | orctin | The Egyptians (Mafia) | :white_large_square: |
 | 32 | 22239 | Simpsons did it | Palindrome | Mafia | :white_large_square: |
 | 33 | 22360 | Mystery Hotel | GhostRaver | Town | :white_large_square: |
