@@ -30,9 +30,9 @@
 | 28 | 21749 | Halloween Massacre | GhostRaver | Mafia | :white_check_mark: [xlsx](../../../../raw/main/btn/28/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/28/spreadsheet.ods) |
 | 29 | 21852 | Pretty Little Liars | esker | Stalemate | :white_check_mark: [ods](../../../../raw/main/btn/29/spreadsheet.ods) (SS recreated so some info missing) |
 | 30 | 21993 | Mafia with a Twist of Lime | thepineman | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/30/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/30/spreadsheet.ods) |
-| 31 | 22107 | Battle of the Gods | orctin | The Egyptians (Mafia) | :white_large_square: |
-| 32 | 22239 | Simpsons did it | Palindrome | Mafia | :white_large_square: |
-| 33 | 22360 | Mystery Hotel | GhostRaver | Town | :white_large_square: |
+| 31 | 22107 | Battle of the Gods | orctin | The Egyptians (Mafia) | :white_check_mark: [xlsx](../../../../raw/main/btn/31/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/31/spreadsheet.ods) |
+| 32 | 22239 | Simpsons did it | Palindrome | Mafia | :white_check_mark: [xlsx](../../../../raw/main/btn/32/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/32/spreadsheet.ods) |
+| 33 | 22360 | Mystery Hotel | GhostRaver | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/33/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/33/spreadsheet.ods) |
 | 34 | 22466 | Villainous Intent | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/btn/34/spreadsheet.xls) |
 | 35 | 22579 | Game #35 | orctin | Mafia | :white_large_square: |
 | 36 | 22665 | No Funny "Bus"iness | orctin | Town | :white_large_square: |
