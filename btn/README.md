@@ -34,12 +34,12 @@
 | 32 | 22239 | Simpsons did it | Palindrome | Mafia | :white_check_mark: [xlsx](../../../../raw/main/btn/32/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/32/spreadsheet.ods) |
 | 33 | 22360 | Mystery Hotel | GhostRaver | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/33/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/33/spreadsheet.ods) |
 | 34 | 22466 | Villainous Intent | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/btn/34/spreadsheet.xls) |
-| 35 | 22579 | Game #35 | orctin | Mafia | :white_large_square: |
-| 36 | 22665 | No Funny "Bus"iness | orctin | Town | :white_large_square: |
-| 37 | 22743 | Battlestar Galactica | Palindrome | Town | :white_large_square: |
-| 38 | 22859 | Trust Issues | orctin and Targaryen | Squad of Fury (Mafia) | :white_large_square: |
+| 35 | 22579 | Game #35 | orctin | Mafia | :white_check_mark: [xlsx](../../../../raw/main/btn/35/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/35/spreadsheet.ods) |
+| 36 | 22665 | No Funny "Bus"iness | orctin | Town | [xlsx](../../../../raw/main/btn/36/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/36/spreadsheet.ods) |
+| 37 | 22743 | Battlestar Galactica | Palindrome | Town | [xlsx](../../../../raw/main/btn/37/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/37/spreadsheet.ods) |
+| 38 | 22859 | Trust Issues | orctin and Targaryen | Squad of Fury (Mafia) | [xlsx](../../../../raw/main/btn/38/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/38/spreadsheet.ods) |
 | 39 | 22958 | Words Have Power | TheFranswer | JackInTheBox the Psycho | :white_check_mark: [xls](../../../raw/main/btn/39/spreadsheet.xls) |
-| 40 | 23026 | Dexter | GhostRaver | Town | :white_large_square: |
+| 40 | 23026 | Dexter | GhostRaver | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/40/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/40/spreadsheet.ods) |
 | 41 | 23119 | The World at War | distructospin | The Allies (Town) | :white_large_square: |
 | 42 | 23169 | Seinfeld | ricercar | Mafia | :white_large_square: |
 | 43 | 23311 | Monsters Inside and Outside | Bliepo and Palindrome | The Vampires | :white_large_square: |
