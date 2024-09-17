@@ -1,6 +1,6 @@
 | # | Thread ID | Game | Host | Winner | Archive Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | 20132 | BTN Mafia #revisited | joeytribbiani | Mafia | :white_check_mark:  [text](../../../raw/main/btn/1/spreadsheet.md) | 
+| 1 | 20132 | BTN Mafia #revisited | joeytribbiani | Mafia | :white_check_mark: [text](../../../raw/main/btn/1/spreadsheet.md) | 
 | 2 | 20297 | The Bloody Affair | Faith | Town | :white_large_square: (image gone) |
 | 3 | 20348 | Wrong Turn | joeytribbiani | Mafia | :white_check_mark: [png](../../../raw/main/btn/3/spreadsheet.png) |
 | 4 | 20392 | When The Death Knocks On The Door | Faith | Katara the Serial Killer | :white_check_mark: [png](../../../raw/main/btn/4/spreadsheet.png) |
@@ -63,8 +63,8 @@
 | 61 | 28706 | Rick & Morty 2 | mkvGOD | Cult | :white_check_mark: [xlsx](../../../raw/main/btn/61/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/61/spreadsheet.ods) |
 | 62 | 28825 | It's Always Sunny at BTN | mkvGOD | Town | :white_check_mark: [xlsx](../../../raw/main/btn/62/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/62/spreadsheet.ods) |
 | 63 | 29038 | Medieval Madness | mkvGOD | Isengard | :white_check_mark: [xlsx](../../../raw/main/btn/63/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/63/spreadsheet.ods) |
-| 64 | 31279 | Computer Aided Enrichment | TheFranswer | Town | :white_large_square: |
+| 64 | 31279 | Computer Aided Enrichment | TheFranswer | Town | :white_check_mark: [text](../../../raw/main/btn/64/spreadsheet.md) |
 | 65 | 32137 | Medieval Madness II | mkvGOD | TheFranswer the Rat | :white_check_mark: [xlsx](../../../raw/main/btn/65/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/65/spreadsheet.ods) |
 | 66 | 34063 | It's halloween horror time! | Bliepo and TheFranswer | Town | :white_check_mark: [xlsx](../../../raw/main/btn/66/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/66/spreadsheet.ods) |
-| 67 | 35476 | Scales of Justice | corrigan | Town | :white_large_square: |
+| 67 | 35476 | Scales of Justice | corrigan | Town | :white_large_square: (no link?) |
 | 68 |  |  |  |  | :white_large_square: |
