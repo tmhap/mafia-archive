@@ -49,8 +49,8 @@
 | 47 | 23693 | Rick & Morty | mkvGOD and Bliepo | Faith & phphospholipid (Rick & Morty) | :white_check_mark: [xlsx](../../../../raw/main/btn/47/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/47/spreadsheet.ods) |
 | 48 | 23795 | Monty Python | MrMichael and JackInTheBox | Town | :white_check_mark: [xlsx](../../../raw/main/btn/48/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/48/spreadsheet.ods) |
 | 49 | 23949 | Don't Panic | TheFranswer | Mafia | :white_check_mark: [xls](../../../raw/main/btn/49/spreadsheet.xls) |
-| 50 | 24063 | The Burden of Proof | mkvGOD | Mafia | :white_large_square: |
-| 51 | 24161 | Archer | HHughes and MrMichael | Town | :white_large_square: |
+| 50 | 24063 | The Burden of Proof | mkvGOD | Mafia | :white_check_mark: [xlsx](../../../raw/main/btn/50/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/50/spreadsheet.ods) |
+| 51 | 24161 | Archer | HHughes and MrMichael | Town | :white_check_mark: [xlsx](../../../raw/main/btn/51/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/51/spreadsheet.ods) |
 | 52 | 24482 | Chaos in South Park | mkvGOD and MrMichael | Town | :white_large_square: |
 | 53 | 24832 | Xenomorph | MrMichael and Chikbik | Town | :white_large_square: |
 | 54 | 24981 | KISS and Make Up | esker | Yakuza | :white_large_square: |

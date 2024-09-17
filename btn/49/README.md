@@ -3,7 +3,7 @@
 * Host: TheFranswer
 * Thread ID: 23949
 * Start Date: 2018-04-28
-* End Date: 2018-02-22
+* End Date: 2018-05-23
 * Winner: Mafia
 * Spreadsheet: [xls](../../../../raw/main/btn/49/spreadsheet.xls)
 * Dead Chat: https://chathe.net/join/LBP752kQ13
