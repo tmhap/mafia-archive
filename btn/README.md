@@ -35,9 +35,9 @@
 | 33 | 22360 | Mystery Hotel | GhostRaver | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/33/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/33/spreadsheet.ods) |
 | 34 | 22466 | Villainous Intent | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/btn/34/spreadsheet.xls) |
 | 35 | 22579 | Game #35 | orctin | Mafia | :white_check_mark: [xlsx](../../../../raw/main/btn/35/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/35/spreadsheet.ods) |
-| 36 | 22665 | No Funny "Bus"iness | orctin | Town | [xlsx](../../../../raw/main/btn/36/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/36/spreadsheet.ods) |
-| 37 | 22743 | Battlestar Galactica | Palindrome | Town | [xlsx](../../../../raw/main/btn/37/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/37/spreadsheet.ods) |
-| 38 | 22859 | Trust Issues | orctin and Targaryen | Squad of Fury (Mafia) | [xlsx](../../../../raw/main/btn/38/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/38/spreadsheet.ods) |
+| 36 | 22665 | No Funny "Bus"iness | orctin | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/36/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/36/spreadsheet.ods) |
+| 37 | 22743 | Battlestar Galactica | Palindrome | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/37/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/37/spreadsheet.ods) |
+| 38 | 22859 | Trust Issues | orctin and Targaryen | Squad of Fury (Mafia) | :white_check_mark: [xlsx](../../../../raw/main/btn/38/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/38/spreadsheet.ods) |
 | 39 | 22958 | Words Have Power | TheFranswer | JackInTheBox the Psycho | :white_check_mark: [xls](../../../raw/main/btn/39/spreadsheet.xls) |
 | 40 | 23026 | Dexter | GhostRaver | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/40/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/40/spreadsheet.ods) |
 | 41 | 23119 | The World at War | distructospin | The Allies (Town) | :white_check_mark: [xlsx](../../../../raw/main/btn/41/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/41/spreadsheet.ods) |
@@ -55,7 +55,7 @@
 | 53 | 24832 | Xenomorph | MrMichael and Chikbik | Town | :white_check_mark: [xlsx](../../../raw/main/btn/53/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/53/spreadsheet.ods) |
 | 54 | 24981 | KISS and Make Up | esker | Yakuza | :white_large_square: (google drive gone) |
 | 55 | 25094 | The Simple Things in Life | mkvGOD | Town | :white_check_mark: [xlsx](../../../raw/main/btn/55/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/55/spreadsheet.ods) |
-| 56 | 25311 | It's just a game | Bliepo | Stalemate | [xlsx](../../../raw/main/btn/56/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/56/spreadsheet.ods) |
+| 56 | 25311 | It's just a game | Bliepo | Stalemate | :white_check_mark: [xlsx](../../../raw/main/btn/56/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/56/spreadsheet.ods) |
 | 57 | 25430 | Free Enterprise | TheFranswer | Town and Third Party | :white_check_mark: [xls](../../../raw/main/btn/57/spreadsheet.xls) |
 | 58 | 25778 | Get a Clue | TimeLine | Town | :white_large_square: |
 | 59 | 26003 | Party at kenyz's | ion | Town | :white_large_square: |
