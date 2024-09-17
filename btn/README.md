@@ -46,7 +46,7 @@
 | 44 | 23403 | Mortar | auntiepepper | Mafia | :white_check_mark: [xlsx](../../../../raw/main/btn/44/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/44/spreadsheet.ods) |
 | 45 | 23477 | Frozen Alive | auntipepper | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/45/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/45/spreadsheet.ods) |
 | 46 | 23577 | The Awesomeness of Cats | Faith and esker | Town | :white_check_mark: [xlsx](../../../../raw/main/btn/46/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/46/spreadsheet.ods) |
-| 47 | 23693 | Rick & Morty | mkvGOD | Faith & phphospholipid (Rick & Morty) | :white_check_mark: [xlsx](../../../../raw/main/btn/47/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/47/spreadsheet.ods) |
+| 47 | 23693 | Rick & Morty | mkvGOD and Bliepo | Faith & phphospholipid (Rick & Morty) | :white_check_mark: [xlsx](../../../../raw/main/btn/47/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/47/spreadsheet.ods) |
 | 48 | 23795 | Monty Python | MrMichael and JackInTheBox | Town | :white_check_mark: [xlsx](../../../raw/main/btn/48/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/48/spreadsheet.ods) |
 | 49 | 23949 | Don't Panic | TheFranswer | Mafia | :white_check_mark: [xls](../../../raw/main/btn/49/spreadsheet.xls) |
 | 50 | 24063 | The Burden of Proof | mkvGOD | Mafia | :white_large_square: |
