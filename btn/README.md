@@ -51,11 +51,11 @@
 | 49 | 23949 | Don't Panic | TheFranswer | Mafia | :white_check_mark: [xls](../../../raw/main/btn/49/spreadsheet.xls) |
 | 50 | 24063 | The Burden of Proof | mkvGOD | Mafia | :white_check_mark: [xlsx](../../../raw/main/btn/50/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/50/spreadsheet.ods) |
 | 51 | 24161 | Archer | HHughes and MrMichael | Town | :white_check_mark: [xlsx](../../../raw/main/btn/51/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/51/spreadsheet.ods) |
-| 52 | 24482 | Chaos in South Park | mkvGOD and MrMichael | Town | :white_large_square: |
-| 53 | 24832 | Xenomorph | MrMichael and Chikbik | Town | :white_large_square: |
-| 54 | 24981 | KISS and Make Up | esker | Yakuza | :white_large_square: |
-| 55 | 25094 | The Simple Things in Life | mkvGOD | Town | :white_large_square: |
-| 56 | 25311 | It's just a game | Bliepo | Stalemate | :white_large_square: |
+| 52 | 24482 | Chaos in South Park | mkvGOD and MrMichael | Town | :white_check_mark: [xlsx](../../../raw/main/btn/52/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/52/spreadsheet.ods) |
+| 53 | 24832 | Xenomorph | MrMichael and Chikbik | Town | :white_check_mark: [xlsx](../../../raw/main/btn/53/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/53/spreadsheet.ods) |
+| 54 | 24981 | KISS and Make Up | esker | Yakuza | :white_large_square: (google drive gone) |
+| 55 | 25094 | The Simple Things in Life | mkvGOD | Town | :white_check_mark: [xlsx](../../../raw/main/btn/55/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/55/spreadsheet.ods) |
+| 56 | 25311 | It's just a game | Bliepo | Stalemate | [xlsx](../../../raw/main/btn/56/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/56/spreadsheet.ods) |
 | 57 | 25430 | Free Enterprise | TheFranswer | Town and Third Party | :white_check_mark: [xls](../../../raw/main/btn/57/spreadsheet.xls) |
 | 58 | 25778 | Get a Clue | TimeLine | Town | :white_large_square: |
 | 59 | 26003 | Party at kenyz's | ion | Town | :white_large_square: |
