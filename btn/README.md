@@ -57,10 +57,10 @@
 | 55 | 25094 | The Simple Things in Life | mkvGOD | Town | :white_check_mark: [xlsx](../../../raw/main/btn/55/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/55/spreadsheet.ods) |
 | 56 | 25311 | It's just a game | Bliepo | Stalemate | :white_check_mark: [xlsx](../../../raw/main/btn/56/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/56/spreadsheet.ods) |
 | 57 | 25430 | Free Enterprise | TheFranswer | Town and Third Party | :white_check_mark: [xls](../../../raw/main/btn/57/spreadsheet.xls) |
-| 58 | 25778 | Get a Clue | TimeLine | Town | :white_large_square: |
-| 59 | 26003 | Party at kenyz's | ion | Town | :white_large_square: |
-| 60 | 26197 | Untitled | alyrianease | Town | :white_large_square: |
-| 61 | 28706 | Rick & Morty 2 | mkvGOD | Cult | :white_large_square: |
+| 58 | 25778 | Get a Clue | TimeLine | Town | :white_check_mark: [xlsx](../../../raw/main/btn/58/spreadsheet.xlsx) \| [ods](../../../../raw/main/btn/58/spreadsheet.ods) |
+| 59 | 26003 | Party at kenyz's | ion | Town | :white_large_square: (requires google account to view) |
+| 60 | 26197 | Untitled | alyrianease | Town | :white_large_square: (google drive gone) |
+| 61 | 28706 | Rick & Morty 2 | mkvGOD | Cult | :white_check_mark: [xlsx](../../../raw/main/btn/61/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/61/spreadsheet.ods) |
 | 62 | 28825 | It's Always Sunny at BTN | mkvGOD | Town | :white_check_mark: [xlsx](../../../raw/main/btn/62/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/62/spreadsheet.ods) |
 | 63 | 29038 | Medieval Madness | mkvGOD | Isengard | :white_check_mark: [xlsx](../../../raw/main/btn/63/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/63/spreadsheet.ods) |
 | 64 | 31279 | Computer Aided Enrichment | TheFranswer | Town | :white_large_square: |

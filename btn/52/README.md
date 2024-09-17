@@ -6,6 +6,7 @@
 * End Date: 2018-11-01
 * Winner: Town
 * Spreadsheet: [xlsx](../../../../raw/main/btn/52/spreadsheet.xlsx) | [ods](../../../../raw/main/btn/52/spreadsheet.ods)
+* Rolelist: [docx](../../../../raw/main/btn/52/rolelist.docx) | [odt](../../../../raw/main/btn/52/rolelist.odt)
 * Dead Chat: https://chathe.net/join/1gzQAYrQa3
 * Mafia Chat: https://chathe.net/join/xMv7G6BeJn
 * Saddam & Satan (Lovers) Chat: https://chathe.net/join/yg27NrW78j
