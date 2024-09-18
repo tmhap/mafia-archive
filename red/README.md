@@ -2,8 +2,8 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [1](1) | 3918 | Starting Over | Faith and sparkles | Town | :white_check_mark: [xlsx](../../../raw/main/red/1/spreadsheet.xlsx) \| [ods](../../../raw/main/red/1/spreadsheet.ods) |
 | [2](2) | 7300 | Murder Mystery | ViscaElBarca | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/2/spreadsheet.xlsx) \| [ods](../../../raw/main/red/2/spreadsheet.ods) |
-| 3 | 8602 | Speak Softly Love | Ai | Mafia | :white_large_square: |
-| 4 | 9300 | a symphony of chaos | abstrcat and Ai | Mafia | :white_large_square: |
+| 3 | 8602 | Speak Softly Love | Ai | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/3/spreadsheet.xlsx) \| [ods](../../../raw/main/red/3/spreadsheet.ods)|
+| 4 | 9300 | a symphony of chaos | abstrcat and Ai | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/4/spreadsheet.xlsx) \| [ods](../../../raw/main/red/4/spreadsheet.ods) |
 | 5 | 10361 | One big hangover | Ville, SilentNN and duckduckgo | Mafia | :white_large_square: |
 | 6 | 11128 | MAELSTROM | Neo and TheFranswer | Cult | :white_large_square: |
 | 7 | 11886 | Tread Lightly | NanaLynch | Mafia | :white_large_square: |
