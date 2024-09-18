@@ -4,7 +4,7 @@
 | [2](2) | 7300 | Murder Mystery | ViscaElBarca | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/2/spreadsheet.xlsx) \| [ods](../../../raw/main/red/2/spreadsheet.ods) |
 | [3](3) | 8602 | Speak Softly Love | Ai | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/3/spreadsheet.xlsx) \| [ods](../../../raw/main/red/3/spreadsheet.ods)|
 | [4](4) | 9300 | a symphony of chaos | abstrcat and Ai | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/4/spreadsheet.xlsx) \| [ods](../../../raw/main/red/4/spreadsheet.ods) |
-| 5 | 10361 | One big hangover | Ville, SilentNN and duckduckgo | Mafia | :white_large_square: |
+| [5](5) | 10361 | One big hangover | Ville, SilentNN and duckduckgo | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/5/spreadsheet.xlsx) \| [ods](../../../raw/main/red/5/spreadsheet.ods) |
 | 6 | 11128 | MAELSTROM | Neo and TheFranswer | Cult | :white_large_square: |
 | 7 | 11886 | Tread Lightly | NanaLynch | Mafia | :white_large_square: |
 | 8 | 12423 | Teamwork | abstrcat and sparkles | Chikbik, the dullahan | :white_large_square: |
