@@ -6,7 +6,7 @@
 | [4](4) | 9300 | a symphony of chaos | abstrcat and Ai | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/4/spreadsheet.xlsx) \| [ods](../../../raw/main/red/4/spreadsheet.ods) |
 | [5](5) | 10361 | One big hangover | Ville, SilentNN and duckduckgo | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/5/spreadsheet.xlsx) \| [ods](../../../raw/main/red/5/spreadsheet.ods) |
 | [6](6) | 11128 | MAELSTROM | Neo and TheFranswer | Cult | :white_check_mark: [xlsx](../../../raw/main/red/6/spreadsheet.xlsx) \| [ods](../../../raw/main/red/6/spreadsheet.ods) |
-| 7 | 11886 | Tread Lightly | NanaLynch | Mafia | :white_large_square: |
+| [7](7) | 11886 | Tread Lightly | NanaLynch | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/7/spreadsheet.xlsx) \| [ods](../../../raw/main/red/7/spreadsheet.ods) |
 | 8 | 12423 | Teamwork | abstrcat and sparkles | Chikbik, the dullahan | :white_large_square: |
 | 9 | 12891 | I Am My Brother's Keeper | iSkylla and Ineluctable | Town | :white_large_square: |
 | 10 | 13215 | A Terrible Party | Puff and dubiasu | Town | :white_large_square: |
