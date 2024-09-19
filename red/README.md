@@ -14,7 +14,7 @@
 | [12](12) | 15371 | Paranoid | NanaLynch, sibi22 and hatex | dubiasu, the unabomber | :white_check_mark: [xlsx](../../../raw/main/red/12/spreadsheet.xlsx) \| [ods](../../../raw/main/red/12/spreadsheet.ods) |
 | [13](13) | 16477 | Common interest | Ville | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/13/spreadsheet.xlsx) \| [ods](../../../raw/main/red/13/spreadsheet.ods) |
 | [14](14) | 17126 | Who Are You Listening To | HHughes and hatex | Mafia and Phospholipid, the Imposter | :white_check_mark: [xlsx](../../../raw/main/red/14/spreadsheet.xlsx) \| [ods](../../../raw/main/red/14/spreadsheet.ods) |
-| 15 | 18022 | Turn Out The Night | Ai and Faith | Phospholipid, the Spree Killer | :white_large_square: |
+| [15](15) | 18022 | Turn Out The Night | Ai and Faith | Phospholipid, the Spree Killer | :white_check_mark: [xlsx](../../../raw/main/red/15/spreadsheet.xlsx) \| [ods](../../../raw/main/red/15/spreadsheet.ods) |
 | 16 | 19613 | Roots Remain | NanaLynch | Mafia | :white_large_square: |
 | 17 | 20462 | Fairytale of New York | Ai and TheFranswer | Town | :white_large_square: |
 | 18 | 21952 | Sensation | EHS, HHughes and Phospholipid | Mafia | :white_large_square: |
