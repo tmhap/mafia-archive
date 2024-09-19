@@ -11,7 +11,7 @@
 | [9](9) | 12891 | I Am My Brother's Keeper | iSkylla and Ineluctable | Town | :white_check_mark: [xlsx](../../../raw/main/red/9/spreadsheet.xlsx) \| [ods](../../../raw/main/red/9/spreadsheet.ods) |
 | [10](10) | 13215 | A Terrible Party | Puff and dubiasu | Town | :white_check_mark: [xlsx](../../../raw/main/red/10/spreadsheet.xlsx) \| [ods](../../../raw/main/red/10/spreadsheet.ods) |
 | [11](11) | 13766 | Communication Is Key | Darhole and Neo | Town | :white_check_mark: [xlsx](../../../raw/main/red/11/spreadsheet.xlsx) \| [ods](../../../raw/main/red/11/spreadsheet.ods) |
-| 12 | 15371 | Paranoid | NanaLynch, sibi22 and hatex | dubiasu, the unabomber | :white_large_square: |
+| [12](12) | 15371 | Paranoid | NanaLynch, sibi22 and hatex | dubiasu, the unabomber | :white_check_mark: [xlsx](../../../raw/main/red/12/spreadsheet.xlsx) \| [ods](../../../raw/main/red/12/spreadsheet.ods) |
 | 13 | 16477 | Common interest | Ville | Mafia | :white_large_square: |
 | 14 | 17126 | Who Are You Listening To | HHughes and hatex | Mafia and Phospholipid, the Imposter | :white_large_square: |
 | 15 | 18022 | Turn Out The Night | Ai and Faith | Phospholipid, the Spree Killer | :white_large_square: |
