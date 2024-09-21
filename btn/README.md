@@ -12,7 +12,7 @@
 | 10 | 20661 | The Conspiracy | Faith | Town | :white_check_mark: [xlsx](../../../raw/main/btn/10/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/10/spreadsheet.ods) |
 | 11 | 20726 | Boat To Nowhere | TheFranswer | Loyal Crew (Town) | :white_large_square: (image gone) |
 | 12 | 20796 | Ghost's Psycho Horror Show | GhostRaver | League of Assassins (Mafia) | :white_large_square: (file share gone) |
-| 13 | 20865 | Insanity | GhostRaver | Town | [xlsx](../../../raw/main/btn/13/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/13/spreadsheet.ods) |
+| 13 | 20865 | Insanity | GhostRaver | Town | :white_check_mark: [xlsx](../../../raw/main/btn/13/spreadsheet.xlsx) \| [ods](../../../raw/main/btn/13/spreadsheet.ods) |
 | 14 | 20920 | Prisoner Mafia | TheFranswer | Prisoners (Town) | :white_check_mark: [xls](../../../raw/main/btn/14/spreadsheet.xls) |
 | 15 | 20998 | Orc Special | orctin | Cult | :white_large_square: (end of game lost) |
 | 16 | Game lost | due to site data loss | nanalynch | (Mafia Expected) | :white_large_square: (google drive gone) |
