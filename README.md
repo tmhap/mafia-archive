@@ -3,6 +3,8 @@ Status Pages:
 * [btn](../../tree/main/btn#readme)
 * [ggn](../../tree/main/ggn#readme)
 * [ptp](../../tree/main/ptp#readme)
+* [ptp (quick games)](../../tree/main/ptp-quick#readme)
+* [ptp (other games)](../../tree/main/ptp-other#readme)
 * [red](../../tree/main/red#readme)
 
 ----
