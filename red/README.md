@@ -15,7 +15,7 @@
 | [13](13) | 16477 | Common interest | Ville | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/13/spreadsheet.xlsx) \| [ods](../../../raw/main/red/13/spreadsheet.ods) |
 | [14](14) | 17126 | Who Are You Listening To | HHughes and hatex | Mafia and Phospholipid, the Imposter | :white_check_mark: [xlsx](../../../raw/main/red/14/spreadsheet.xlsx) \| [ods](../../../raw/main/red/14/spreadsheet.ods) |
 | [15](15) | 18022 | Turn Out The Night | Ai and Faith | Phospholipid, the Spree Killer | :white_check_mark: [xlsx](../../../raw/main/red/15/spreadsheet.xlsx) \| [ods](../../../raw/main/red/15/spreadsheet.ods) |
-| 16 | 19613 | Roots Remain | NanaLynch | Mafia | :white_large_square: |
+| [16](16) | 19613 | Roots Remain | NanaLynch | Mafia | :white_check_mark: [xlsx](../../../raw/main/red/16/spreadsheet.xlsx) \| [ods](../../../raw/main/red/16/spreadsheet.ods) |
 | 17 | 20462 | Fairytale of New York | Ai and TheFranswer | Town | :white_large_square: |
 | 18 | 21952 | Sensation | EHS, HHughes and Phospholipid | Mafia | :white_large_square: |
 | 19 | 23210 | You're Never Alone With a Schizophrenic | sparkles | Mafia | :white_large_square: |
