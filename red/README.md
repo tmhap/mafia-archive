@@ -35,7 +35,7 @@
 | 33 | 49213 | Whose side are you on? | phospholipid | Town | :white_large_square: |
 | 34 | 49577 | OFF THE MEDS | phospholipid | Town and Norman Bates katzelmacher | :white_large_square: |
 | 35 | 50941 | Mafia Mafia Mafia | BlueElectro | Slut CertainlyTilde | :white_large_square: |
-| 36 | 51851 | Hitchcock | nastykast | No one | :white_large_square: |
+| [36](36) | 51851 | Hitchcock | nastykast | No one | :white_check_mark: [xlsx](../../../raw/main/red/36/spreadsheet.xlsx) \| [ods](../../../raw/main/red/36/spreadsheet.ods) |
 | 37 | 52543 | Battlestar Galactica | BlueElectro | Town | :white_large_square: |
 | 38 | 53027 | Merry Christmas! | btchmistry and BlueElectro | Town | :white_large_square: |
 | 39 | 55048 | Songs To Test By | TheFranswer | Town | :white_large_square: |
