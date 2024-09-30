@@ -1,0 +1,230 @@
+List:
+1.	Divius
+2. 	Bearsy
+3. 	bobthemonkey123
+4. 	TheJakalope
+5. 	unclesalty
+6. 	Penguinking6
+7. 	BallzDEEP77
+8. 	Malcontented_one
+9. 	ufoeke
+10. onetootreefor
+11. thisguy
+12. collins5
+13. MailCook
+14.	thesun
+15.	cokebabies
+16.	Siege
+17.	Zargos
+18.	Elemhunter
+19. Fluffles
+20. Squirrelcity
+21. camdo2
+22. zapilnaki
+23. zool
+24. chameleon
+25. Frank_Sinatra
+
+List:
+1.	Divius - mafioso
+2. 	Bearsy - Cop
+3. 	bobthemonkey123 - cult leader
+4. 	TheJakalope - Insane cop
+5. 	unclesalty - godfather
+6. 	Penguinking6 - town
+7. 	BallzDEEP77 - town
+8. 	Malcontented_one - town
+9. 	ufoeke - town
+10. onetootreefor - town
+11. thisguy - overeager vigilante
+12. collins5 - town
+13. MailCook - town
+14.	thesun - overeager vigilante
+15.	cokebabies - Mafia cop
+16.	Siege - serial killer
+17.	Zargos - town
+18.	Elemhunter - town
+19. Fluffles - Neighborhood watch
+20. Squirrelcity - cop
+21. camdo2 - town
+22. zapilnaki - town
+23. zool - serial killer
+24. chameleon - town
+25. Frank_Sinatra - Naive Doctor
+
+Roles:
+1. town
+10. town
+11. Miller
+12. Cop
+13. Insane Cop
+14. Doctor
+15. Naive Doctor
+16. Neighborhood Watch
+17. Neighborhood Watch
+18. Overeager Vigilante
+19. Mafioso
+20. Mafioso
+21. M cop
+22. M roleblocker
+23. Godfather
+24. serial killer
+25. cult leader
+
+Totals:
+town - 12
+mafioso - 1
+cop - 2
+insane cop - 1
+naive doctor - 1
+serial killer - 2
+overeager vigilante - 2
+cult leader - 1
+mafia cop - 1
+neighborhood watch - 1
+
+Day 1:
+malcontented_one
+
+To say he was waiting for Godot is an understatement. Malcontented_one stood on the street corner day in and day out, simply waiting. He was expecting Godot, but he never showed. The town, however, did meet him. They surrounded him, kept their distance. It started with a small child. He threw the first stone. Then another child threw a stone. Then slowly the entire town joined in throwing pebbles, stones, rocks, boulders...until Malconented_one was no longer able to consciously wait. His body lay there until night and the street cleaners removed it. Upon moving the body, a piece of paper fell out of his pocket. It simply read, "townsperson". Godot never came. 
+
+Night 1:
+Mafia
+Divius kills Bearsy
+cokebabies: investigate PK6
+
+Serial Killer
+zool: kill fluffles
+siege: kill ufoeke
+
+overegaer vigilante
+thesun: kill thisguy
+thisguy: kill thisguy
+
+Cops
+squirrelcity: Investigate chameleon
+Bearsy: ?
+
+Insane Cop
+TheJakalope: Investigate chameleon
+
+Neighborhood Watch:
+fluffles: thisguy
+
+cult leader
+bobthemonkey: recruit Divius
+
+Naive Doctor:
+Frank_Sinatra: Heal Unclesalty
+
+In the morning the town unlocked their doors and ventured out into the world. They quickly found thisguy's body. He was strung up in the middle of town with a noose around his neck. The odd thing was that there was also a bullet hole in his head. He was an [color=green]overeager vigilante[/color]. At the door to the local brothel, they found bobthemonkey. Apparently he was asking about the wrong people. He was a [color=purple]cult leader[/color]. At the local tavern, fluffles is found dead holding his favorite beer. He was a [color=green]neighborhood watch[/color]. Across town, Bearsy is found splattered across the road, he was caught in some sort of explosion. He was a [color=green]cop[/color]. Ufoeke was found with a knife in the side. There was very little blood outside the body, but obviously a fair amount internally. He was a townsperson.
+
+PM Fluffles:
+You follow thisguy through the night. He seems lonely. He walks into a barn, steals some rope, and heads to the main road. He ties up the rope into a noose. Is he about to kill someone? He walks into the tavern, grabs a stool, and walks back out. He puts the stool under the noose, and climbs up. He puts the noose around his own neck, and kicks out the stool. You watch, horrified, as he slowly wiggles around, unable to breathe. Suddenly, you see thesun run up to the body. You think he is the doctor, coming to save him. thesun looks around, and pulls a knife out of his pocket. He changes his mind, puts the knife back, and pulls out a pistol. He shoots thisguy in the head and runs away. You can't believe what you just saw. You walk into the tavern to grab a beer. You take one sip and realize you aren't alone. You have no time to turn around before you're clubbed in the head. You never wake up.
+
+PM thisguy:
+You string up a noose in the center of town, stand on a stool and put your head into the loop. You kick the stool out, prepared to die. Before you strangle, you see someone run up and pull out a knife. You hope they don't save you. They change their mind, put the knife away and pull out a gun. They shoot you in the head.
+
+PM Bearsy:
+You're walking your beat at night. You're so lost in your thoughts figuring out who to investigate that you don't see the landmine in front of you. You step on it and are blasted to smithereens.
+
+PM bobthemonkey:
+You walk up to Divius and start chatting him up. You tell him about the cult and why he should join. You are selling your case so hard that you don't notice him snickering as all his friends surround you. He says, "wrong guy to try to recruit, buddy." You feel an injection in your neck and never wake up.
+
+Day 2:
+
+Zargos wandered out of his abode. Walked into the diner across the street and asked for the breakfast special. He was told it was 3pm. He asked, "Oh, is it really? Well I'll just have whatever you're serving." He was served a molded bit of lead shot out of a barrel. Zargos was a [color=green]townsperson[/color].
+
+Night 2:
+
+Mafia
+Divius kills Frank_Sinatra
+cokebabies: investigate MailCook
+
+Serial Killer
+zool: kill Divius
+siege: kill zapilnaki
+
+overegaer vigilante
+thesun: kill Siege
+
+Cops
+squirrelcity: Investigate thesun
+
+Insane Cop
+TheJakalope: Investigate PK6
+
+Naive Doctor:
+Frank_Sinatra: Heal chameleon
+
+The sun's rays broke the night, but the air was still heavy. The townspeople ventured forth, knowing they would find more bodies. It was in the water tower that they found Frank_Sinatra. He had been tied to a chair and dropped into the tank. One could only guess how long he was able to hold his breath before giving in to his untimely death. Frank_Sinatra was a [color=green]naive doctor[/color]. Less than half a mile away they found the body of Divius. His eyes were open and his lungs were missing, it seemed to be a live organ transplant. Divius was a [color=red]mafioso[/color]. On the other side of town another group of people found two more bodies. Zapilnaki was found with a hatchet in his head. There was no confusion about the fact that he was dead before his body hit the ground. He was a [color=green]townsperson[/color]. Just around the corner, Siege was found lying in a pool of his own blood. He had 22 stab wounds in his back. Siege was a [color=purple]serial killer[/color].
+
+PM Divius:
+You tie Frank_Sinatra to a chair and throw him into the tank of a water tower and watch him drown. When leaving, you realize you are being followed. You can't risk your mafia brethren being caught, so you pick up the pace, trying to draw your follower away from Frank's body. Out of nowhere someone appears before you and injects something into your neck. You realize the person "following" you was actually a harmless rabbit. You don't know what was injected into your body, but you can't move. You watch in horror as your attacker removes your left lung. You pass out before your right lung is removed. You never wake up.
+
+PM Frank_Sinatra
+You are grabbed out of your bed in the middle of the night. Your attacker takes you down to your living room where he ties you to one of your dining chairs. He drags you and your chair all the way to the water tower. You get tossed into the tank and try to hold your breath, but to no avail. You drown.
+
+PM Zapilnaki:
+You were running to your girlfriend's house in the middle of the night. You are quickly winded and slow down. There is someone in front of you. They yell to you and point behind you. You turn around, terrified. Suddenly a hatchet hits you in the back of the head, you are dead before you realize you were deceived. 
+
+PM Siege:
+You see Zap running through the night. You get in front of him with a clever plan. You yell to him to be careful and point behind him. When he turns around you throw a hatchet directly into his head. You are so proud of your trickery that you don't notice the person following you as you walk away. You feel a sharp pain in your back as you are stabbed. Then again. And again. By the 22nd stab, it doesn't even hurt anymore. You never get up.
+
+Day 3:
+
+ballzdeep77 is killed.
+
+Night 3:
+
+Mafia
+unclesalty kills collins5
+cokebabies: investigate squiz
+
+Serial Killer
+zool: kill squiz
+
+overegaer vigilante
+thesun: kill TheJakalope
+
+Cops
+squirrelcity: Investigate salty
+
+Insane Cop
+TheJakalope: Investigate thesun
+
+Squirrelcity donned her finest red dress. She was going out on the town tonight. A walk through the main street would be more than enough to get enough suitors out of the tavern and following her to the closest barn party. There were a couple cat calls, wolf whistles, and bull whips cracking. Wait, why would someone crack a bull whip? Oh, no one did. It was just a bullet shot directly into her ample bosom. The red seemed to flow from the hole in her chest and seamlessly join the red of her dress. While a few of the local drunkards stupidly tried giving her CPR to bring her back to life, they found a badge on her. She was the [color=green]sane cop[/color]. The guy she was meeting at the barn party, TheJakalope, kept on waiting for her. When she never showed, he get angry and found the closest trollop with whom he could have his way. He easily attracted her attention and quickly charmed her into his arms and out of the barn they walked. They had barely layed down on the hay in the horse stable when the gent she was going steady with showed up. The large fellow took one swing at TheJakalope. What TheJakalope had in charm, he lacked in girth. A broken rib perfused his heart and he suffered greatly before dying in the hay. He was a [color=green]insane cop[/color]. These two deaths were perhaps the greatest cover for another untimely demise. At the barn party itself, the gossip and rumors were ever more interesting than making fun of the gellows who couldn't build up the courage to speak to the girls. You know the ones I'm talking about. They generally sit on the chairs around the perimeter of the dance floor and just watch. Voyeurs of the middle school soirees. Collins5 was one of these loners tonight. Except he wasn't watching, rather he was staring. He hadn't blinked in hours but no one noticed. His drink was poisoned and he died in his seat. He was a [color=green]townsperson[/color].
+
+Day 4
+
+No lynch
+
+Night 4
+
+Night 3:
+
+Mafia
+unclesalty kills thesun
+cokebabies: investigate camdo
+
+Serial Killer
+zool: kill thesun
+
+overegaer vigilante
+thesun: kill 
+
+
+thesun was out for a stroll, trying to decide who deserved his kill. A man walked out in front of him. He had a baseball bat. thesun knew this was bad news...but wait, he had a baseball. All was okay, he must have just been going home from a baseball match. The fellow was playing catch with the baseball, tossing it up and down. The last toss was especially high, he took a stance, and swung the bat into the ball with great force. thesun saw the ball coming towards him and he swiftly dodged. When he looked back the fellow was now pointing a gun at him. thesun was shot in the left kneecap. Then the right kneecap. Then the right shoulder. The man laughed and said something about leaving thesun to bleed out and walked away. thesun screamed for help and luckily someone heard him and came running up to him. Alas, it was rather unlucky. This newcomer took out what appeared to be a really long nail. He placed the nail on thesun's head, and used a hammer to finish the deed. thesun was an overeager vigilante. 
+
+Day 5
+
+camdo is a townie.
+
+Night 5
+
+Mafia
+unclesalty kills onetootreefor
+cokebabies: investigate zool
+
+Serial Killer
+zool: kill cokebabies

@@ -1,17 +1,17 @@
 | # | Thread ID | Game | Host | Winner | Archive Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | 9286 | PTP Mafia #1 | Frank_Sinatra | Town | :white_large_square: |
-| 2 | 9880 | PTP Mafia #2 | Frank_Sinatra | Town | :white_large_square: |
-| 3 | 10639 | PTP Mafia #3 | Frank_Sinatra | Mafia | :white_large_square: |
-| 4 | 10972 | PTP Mafia #4 | TheJakalope | Mafia | :white_large_square: |
-| 5 | 11519 | PTP Mafia #5 | Frank_Sinatra | Mafia | :white_large_square: |
-| 6 | 12034 | PTP Mafia #6 | brownt0wn | Mafia | :white_large_square: |
-| 7 | 12297 | PTP Mafia #7 | TheJakalope | Town | :white_large_square: |
-| 8 | 12408 | PTP Mafia #8 | TheJakalope | The Fool thisguy | :white_large_square: |
-| 8.5 | 12656 | Take 2 | TheJakalope | Serial killer bobthemonkey123 + Town | :white_large_square: |
-| 9 | 12798 | PTP Mafia #9 | TheJakalope | Town | :white_large_square: |
-| 10 | 13198 | PTP Mafia #10 | Elemhunter | Town | :white_large_square: |
-| 11 | 13455 | PTP Mafia #11 | Elemhunter | Cult | :white_large_square: |
+| 1 | 9286 | PTP Mafia #1 | Frank_Sinatra | Town | :white_large_square: (no SS link) |
+| 2 | 9880 | PTP Mafia #2 | Frank_Sinatra | Town | :white_large_square: (no SS link) |
+| 3 | 10639 | PTP Mafia #3 | Frank_Sinatra | Mafia | :white_large_square: (no SS link) |
+| 4 | 10972 | PTP Mafia #4 | TheJakalope | Mafia | :white_large_square: (SS requires auth) |
+| 5 | 11519 | PTP Mafia #5 | Frank_Sinatra | Mafia | :white_large_square: (no SS link) |
+| [6](6) | 12034 | PTP Mafia #6 | brownt0wn | Mafia | :white_check_mark: [text](../../../raw/main/ptp/6/spreadsheet.txt) |
+| 7 | 12297 | PTP Mafia #7 | TheJakalope | Town | :white_large_square: (no SS link) |
+| 8 | 12408 | PTP Mafia #8 | TheJakalope | The Fool thisguy | :white_large_square: (no SS link) |
+| [8.5](8.5) | 12656 | Take 2 | TheJakalope | Serial killer bobthemonkey123 + Town | :white_check_mark: [xlsx](../../../raw/main/ptp/8.5/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/8.5/spreadsheet.ods) |
+| 9 | 12798 | PTP Mafia #9 | TheJakalope | Town | :white_large_square: (no SS link) |
+| 10 | 13198 | PTP Mafia #10 | Elemhunter | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/10s/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/10/spreadsheet.ods) |
+| 11 | 13455 | PTP Mafia #11 | Elemhunter | Cult | :white_large_square: (no SS link) |
 | 12 | 13670 | PTP Mafia #12 | JaktheAce | Mafia | :white_large_square: |
 | 13 | 13794 | PTP Mafia #13 | JaktheAce | Town | :white_large_square: |
 | 14 | 13981 | PTP Mafia #14 | JaktheAce | Town | :white_large_square: |
