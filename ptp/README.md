@@ -10,11 +10,11 @@
 | 8 | 12408 | PTP Mafia #8 | TheJakalope | The Fool thisguy | :white_large_square: (no SS link) |
 | [8.5](8.5) | 12656 | Take 2 | TheJakalope | Serial killer bobthemonkey123 + Town | :white_check_mark: [xlsx](../../../raw/main/ptp/8.5/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/8.5/spreadsheet.ods) |
 | 9 | 12798 | PTP Mafia #9 | TheJakalope | Town | :white_large_square: (no SS link) |
-| 10 | 13198 | PTP Mafia #10 | Elemhunter | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/10s/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/10/spreadsheet.ods) |
+| [10](10) | 13198 | PTP Mafia #10 | Elemhunter | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/10s/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/10/spreadsheet.ods) |
 | 11 | 13455 | PTP Mafia #11 | Elemhunter | Cult | :white_large_square: (no SS link) |
-| 12 | 13670 | PTP Mafia #12 | JaktheAce | Mafia | :white_large_square: |
-| 13 | 13794 | PTP Mafia #13 | JaktheAce | Town | :white_large_square: |
-| 14 | 13981 | PTP Mafia #14 | JaktheAce | Town | :white_large_square: |
+| 12 | 13670 | PTP Mafia #12 | JaktheAce | Mafia | :white_large_square: (summary of actions posted in thread) |
+| 13 | 13794 | PTP Mafia #13 | JaktheAce | Town | :white_large_square: (no SS link) |
+| 14 | 13981 | PTP Mafia #14 | JaktheAce | Town | :white_large_square: (no SS link) |
 | 15 | 14208 | PTP Mafia #15 | Minion | Red Mafia & Blue Mafia | :white_large_square: |
 | 16 | 14440 | PTP Mafia #16 | Minion | Town | :white_large_square: |
 | 17 | 14656 | PTP Mafia #17 | Minion | Town | :white_large_square: |
