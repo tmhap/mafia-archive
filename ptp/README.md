@@ -3,7 +3,7 @@
 | 1 | 9286 | PTP Mafia #1 | Frank_Sinatra | Town | :white_large_square: (no SS link) |
 | 2 | 9880 | PTP Mafia #2 | Frank_Sinatra | Town | :white_large_square: (no SS link) |
 | 3 | 10639 | PTP Mafia #3 | Frank_Sinatra | Mafia | :white_large_square: (no SS link) |
-| 4 | 10972 | PTP Mafia #4 | TheJakalope | Mafia | :white_large_square: (SS requires auth) |
+| 4 | 10972 | PTP Mafia #4 | TheJakalope | Mafia | :white_check_mark: [xlsx](../../../raw/main/ptp/4/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/4/spreadsheet.ods) |
 | 5 | 11519 | PTP Mafia #5 | Frank_Sinatra | Mafia | :white_large_square: (no SS link) |
 | [6](6) | 12034 | PTP Mafia #6 | brownt0wn | Mafia | :white_check_mark: [text](../../../raw/main/ptp/6/spreadsheet.txt) |
 | 7 | 12297 | PTP Mafia #7 | TheJakalope | Town | :white_large_square: (no SS link) |
