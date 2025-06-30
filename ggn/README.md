@@ -11,5 +11,7 @@
 | 9 | 23000 | Deep Space Nine | eastlondondon and mkvgod | Town won | :white_large_square: |
 | 10 | 27642 | Bloody Harvest: Days of Thanksgiving | shogunsama and Bliepo | No one won | :white_large_square: |
 | 11 | 29779 | Unholy Village  | veecou and Landorus |  Wolves  | :white_large_square: |
-| 12 | 31478 | Body-More Murdaland | eastlondondon | (in progress) | :white_large_square: |
-| 13 |  |  |  |  | :white_large_square: |
+| 12 | 31478 | Body-More Murdaland | eastlondondon | btchmistry | :white_large_square: |
+| 13 | 31617 | Meet The Cores | TheFranswer | Town | :white_large_square: |
+| 14 | 33464 | Bada Bing! | eastlondondon | Town | :white_large_square: |
+| 15 |  |  |  |  | :white_large_square: |
