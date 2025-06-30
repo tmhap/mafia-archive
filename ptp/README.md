@@ -15,21 +15,21 @@
 | 12 | 13670 | PTP Mafia #12 | JaktheAce | Mafia | :white_large_square: (summary of actions posted in thread) |
 | 13 | 13794 | PTP Mafia #13 | JaktheAce | Town | :white_large_square: (no SS link) |
 | 14 | 13981 | PTP Mafia #14 | JaktheAce | Town | :white_large_square: (no SS link) |
-| 15 | 14208 | PTP Mafia #15 | Minion | Red Mafia & Blue Mafia | :white_large_square: |
-| 16 | 14440 | PTP Mafia #16 | Minion | Town | :white_large_square: |
-| 17 | 14656 | PTP Mafia #17 | Minion | Town | :white_large_square: |
-| 18 | 14866 | PTP Mafia #18 | Siege | Town | :white_large_square: |
-| 19 | 15061 | PTP Mafia #19 | Flonk | Blue Mafia | :white_large_square: |
-| 20 | 15485 | PTP Mafia #20 | Minion | Town | :white_large_square: |
-| 21 | 15720 | PTP Mafia #21 | Minion | Town | :white_large_square: |
-| 22 | 15900 | PTP Mafia #22 | Minion | Town | :white_large_square: |
-| 23 | 16571 | PTP Mafia #23 | Minion & unclesalty | Mafia | :white_large_square: |
-| 24 | 17511 | PTP Mafia #24 | Siege | Serial killer collins5 | :white_large_square: |
-| 25 | 17364 | PTP Mafia #25 | Peeble | Town | :white_large_square: |
-| 26 | 17889 | PTP Mafia #26 | Minion | Serial killers cokebabies and collins5 | :white_large_square: |
-| 27 | 18116 | PTP Mafia #27 | Minion | Town | :white_large_square: |
-| 28 | 18819 | PTP Mafia #28 | Tripolie | Town | :white_large_square: |
-| 29 | 19704 | PTP Mafia #29 | Tripolie | Mafia | :white_large_square: |
+| 15 | 14208 | PTP Mafia #15 | Minion | Red Mafia & Blue Mafia | :white_large_square: (no SS link) |
+| 16 | 14440 | PTP Mafia #16 | Minion | Town | :white_large_square: (no SS link) |
+| 17 | 14656 | PTP Mafia #17 | Minion | Town | :white_check_mark: [image 1](../../../raw/main/ptp/17/spreadsheet1.jpg) [image 2](../../../raw/main/ptp/17/spreadsheet2.jpg) |
+| 18 | 14866 | PTP Mafia #18 | Siege | Town | :white_large_square: (no SS link) |
+| 19 | 15061 | PTP Mafia #19 | Flonk | Blue Mafia | :white_large_square: (no SS link) |
+| 20 | 15485 | PTP Mafia #20 | Minion | Town | :white_large_square: (no SS link) |
+| 21 | 15720 | PTP Mafia #21 | Minion | Town | :white_large_square: (no SS link) |
+| 22 | 15900 | PTP Mafia #22 | Minion | Town | :white_large_square: (no SS link) |
+| 23 | 16571 | PTP Mafia #23 | Minion & unclesalty | Mafia | :white_large_square: (no SS link) |
+| 25 | 17364 | PTP Mafia #25 | Peeble | Town | :white_large_square: (no SS link) |
+| 24 | 17511 | PTP Mafia #24 | Siege | Serial killer collins5 | :white_large_square: (no SS link) |
+| 26 | 17889 | PTP Mafia #26 | Minion | Serial killers cokebabies and collins5 | :white_large_square: (no SS link) |
+| 27 | 18116 | PTP Mafia #27 | Minion | Town | :white_large_square: (no SS link) |
+| 28 | 18819 | PTP Mafia #28 | Tripolie | Town | :white_large_square: (no SS link) |
+| 29 | 19704 | PTP Mafia #29 | Tripolie | Mafia | :white_large_square: (no SS link) |
 | 30 | 19993 | PTP Mafia #30 | Fluffles | Yakuza | :white_large_square: |
 | 31 | 20264 | PTP Mafia #31 | Fluffles | Town | :white_large_square: |
 | 32 | 20384 | Horrible Secret Edition | thisguy | Town | :white_large_square: |
@@ -137,20 +137,20 @@
 | 132 | 34672 | Casting Christmas | auntiepepper, repairmanman & hotshotxwl | Town | :white_large_square: |
 | 133 | 35297 | Three's A Crowd | MrMichael & durfu | Mafia | :white_large_square: |
 | 134 | 36228 | Reminiscing of Summer | Bliepo & durfu | Town | :white_large_square: |
-| 135 | 36387 | It Comes at Night | NanaLynch | Mafia | :white_large_square: |
-| 136 | 36532 | Goodbye 2019 Hello 2020 | orctin | Town | :white_large_square: |
-| 137 | 36791 | The Bermuda Triangle | iSkylla & MrMichael | Town | :white_large_square: |
-| 138 | 37162 | We'll do whatever we feel like! | Bliepo & hotshotxwl | Town | :white_large_square: |
-| 139 | 37827 | Oh noes! Not another game by Bliepo! | Bliepo | Mafia | :white_large_square: |
-| 140 | 38172 | Xenomorph Rising | MrMichael & iSkylla | Xenomorphs (CrkMStanz) & Cat | :white_large_square: |
+| 135 | 36387 | It Comes at Night | NanaLynch | Mafia | :white_check_mark: [xlsx](../../../raw/main/ptp/135/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/135/spreadsheet.ods) |
+| 136 | 36532 | Goodbye 2019 Hello 2020 | orctin | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/136/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/136/spreadsheet.ods) (SS looks like it got accidentally edited and is missing data) |
+| 137 | 36791 | The Bermuda Triangle | iSkylla & MrMichael | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/137/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/137/spreadsheet.ods) |
+| 138 | 37162 | We'll do whatever we feel like! | Bliepo & hotshotxwl | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/138/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/138/spreadsheet.ods) |
+| 139 | 37827 | Oh noes! Not another game by Bliepo! | Bliepo | Mafia | :white_check_mark: [xlsx](../../../raw/main/ptp/139/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/139/spreadsheet.ods) |
+| 140 | 38172 | Xenomorph Rising | MrMichael & iSkylla | Xenomorphs (CrkMStanz) & Cat | :white_check_mark: [xlsx](../../../raw/main/ptp/140/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/140/spreadsheet.ods) |
 | 141 | 38421 | Where's My Wand? | TheFranswer | Death Eaters | :white_check_mark: [xls](../../../raw/main/ptp/141/spreadsheet.xls) |
-| 142 | 38574 | It ain't christmas just yet | hotshotxwl & Bliepo | Town | :white_check_mark: [xls](../../../raw/main/ptp/145/spreadsheet.xls) |
-| 143 | 38979 | A Simple Game | Red123 | Town  Jester | :white_large_square: |
-| 144 | 39082 | A Simple Game 2 | Red123 | Town | :white_large_square: |
-| 145 | 39213 | Doctor Who: Who Goes There? | TheFranswer | Deadly Assassin crashplan | :white_large_square: |
-| 146 | 39365 | Voting Blocs | Red123 | Mafia | :white_large_square: |
+| 142 | 38574 | It ain't christmas just yet | hotshotxwl & Bliepo | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/142/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/142/spreadsheet.ods) |
+| 143 | 38979 | A Simple Game | Red123 | Town  Jester | :white_check_mark: [xlsx](../../../raw/main/ptp/143/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/143/spreadsheet.ods) |
+| 144 | 39082 | A Simple Game 2 | Red123 | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/144/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/144/spreadsheet.ods) |
+| 145 | 39213 | Doctor Who: Who Goes There? | TheFranswer | Deadly Assassin crashplan | :white_check_mark: [xls](../../../raw/main/ptp/145/spreadsheet.xls) |
+| 146 | 39365 | Voting Blocs | Red123 | Mafia | :white_check_mark: [xlsx](../../../raw/main/ptp/146/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/146/spreadsheet.ods) |
 | 147 | 40055 | Dune | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/ptp/147/spreadsheet.xls) |
-| 148 | 40229 | Hellsing | Neo | Hellsing | :white_large_square: |
+| 148 | 40229 | Hellsing | Neo | Hellsing | :white_check_mark: [xlsx](../../../raw/main/ptp/148/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/148/spreadsheet.ods) |
 | 149 | 40450 | The Matrix | Red123 | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/149/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/149/spreadsheet.ods) |
 | 150 | 41828 | A PTP Christmas Carol | Neo and BuzzArmstrong | Town & Cult | :white_check_mark: [xlsx](../../../raw/main/ptp/150/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/150/spreadsheet.ods) |
 | 151 | 42148 | Portal: No Escape | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/ptp/151/spreadsheet.xls) |
