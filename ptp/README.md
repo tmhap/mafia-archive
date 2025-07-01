@@ -10,7 +10,7 @@
 | 8 | 12408 | PTP Mafia #8 | TheJakalope | The Fool thisguy | :white_large_square: (no SS link) |
 | [8.5](8.5) | 12656 | Take 2 | TheJakalope | Serial killer bobthemonkey123 + Town | :white_check_mark: [xlsx](../../../raw/main/ptp/8.5/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/8.5/spreadsheet.ods) |
 | 9 | 12798 | PTP Mafia #9 | TheJakalope | Town | :white_large_square: (no SS link) |
-| [10](10) | 13198 | PTP Mafia #10 | Elemhunter | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/10s/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/10/spreadsheet.ods) |
+| [10](10) | 13198 | PTP Mafia #10 | Elemhunter | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/10/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/10/spreadsheet.ods) |
 | 11 | 13455 | PTP Mafia #11 | Elemhunter | Cult | :white_large_square: (no SS link) |
 | 12 | 13670 | PTP Mafia #12 | JaktheAce | Mafia | :white_large_square: (summary of actions posted in thread) |
 | 13 | 13794 | PTP Mafia #13 | JaktheAce | Town | :white_large_square: (no SS link) |
@@ -30,28 +30,28 @@
 | 27 | 18116 | PTP Mafia #27 | Minion | Town | :white_large_square: (no SS link) |
 | 28 | 18819 | PTP Mafia #28 | Tripolie | Town | :white_large_square: (no SS link) |
 | 29 | 19704 | PTP Mafia #29 | Tripolie | Mafia | :white_large_square: (no SS link) |
-| 30 | 19993 | PTP Mafia #30 | Fluffles | Yakuza | :white_large_square: |
-| 31 | 20264 | PTP Mafia #31 | Fluffles | Town | :white_large_square: |
-| 32 | 20384 | Horrible Secret Edition | thisguy | Town | :white_large_square: |
-| 33 | 20537 | PTP Mafia #33 | TheJakalope | Town | :white_large_square: |
-| 34 | 20648 | PTP Sopranos #34 - The Mafia Edition | Nuked | Sopranos | :white_large_square: |
-| 35 | 20817 | PTP Mafia #35 | heirun3 | Town | :white_large_square: |
-| 36 | 21064 | PTP Mafia #36 | brownt0wn | Mafia | :white_large_square: |
-| 37 | 21310 | PTP Mafia #37 | kittenhat | Town | :white_large_square: |
-| 38 | 21457 | PTP Mafia #38 | kittenhat | Cult | :white_large_square: |
-| 39 | 21613 | PTP Mafia #39 | gandy93 | Gang Unit & Gangsters | :white_large_square: |
-| 40 | 21671 | PTP Mafia #40 | IDHO | Town | :white_large_square: |
-| 41 | 21844 | Merry Christmas 2013 | w1r3d | Town | :white_large_square: |
-| 42 | 21932 | PTP Mafia #42 | walala222 | Town | :white_large_square: |
-| 43 | 22065 | PTP Mafia #43 | RasDam | Town | :white_large_square: |
-| 44 | 22284 | PTP Mafia #44 | alcarithemad | Town | :white_large_square: |
-| 45 | 22382 | PTP Mafia #45 | joede224 | Town | :white_large_square: |
-| 46 | 23205 | PTP Busty Mafia #46 | Buster | Mafia | :white_large_square: |
-| 47 | 23324 | o]8-X-8[o  | Vilhelm | Town | :white_large_square: |
-| 47.5 | 23397 | Breaking Bad | soulpopped & joede224 | DEA | :white_large_square: |
-| 48 | 23417 | Into the Deeps | gandy93 | Town | :white_large_square: |
-| 49 | 23531 | PTP Mafia #49 | w1r3d | Mafia | :white_large_square: |
-| 50 | 23591 | Half-Century of Greatness Edition | soulpopped & joede224 | Town | :white_large_square: |
+| 30 | 19993 | PTP Mafia #30 | Fluffles | Yakuza | :white_check_mark: [image](../../../raw/main/ptp/30/spreadsheet.png) |
+| 31 | 20264 | PTP Mafia #31 | Fluffles | Town | :white_check_mark: [image](../../../raw/main/ptp/31/spreadsheet.png) |
+| 32 | 20384 | Horrible Secret Edition | thisguy | Town | :white_check_mark: [image](../../../raw/main/ptp/32/spreadsheet.png) |
+| 33 | 20537 | PTP Mafia #33 | TheJakalope | Town | :white_large_square: (no SS link) |
+| 34 | 20648 | PTP Sopranos #34 - The Mafia Edition | Nuked | Sopranos | :white_large_square: (no SS link) |
+| 35 | 20817 | PTP Mafia #35 | heirun3 | Town | :white_large_square: (SS link doesn't work) |
+| 36 | 21064 | PTP Mafia #36 | brownt0wn | Mafia | :white_large_square: (image gone) |
+| 37 | 21310 | PTP Mafia #37 | kittenhat | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/37/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/37/spreadsheet.ods) |
+| 38 | 21457 | PTP Mafia #38 | kittenhat | Cult | :white_check_mark: [xlsx](../../../raw/main/ptp/38/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/38/spreadsheet.ods) |
+| 39 | 21613 | PTP Mafia #39 | gandy93 | Gang Unit & Gangsters | :white_large_square: (SS link doesn't work) |
+| 40 | 21671 | PTP Mafia #40 | IDHO | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/40/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/40/spreadsheet.ods) |
+| 41 | 21844 | Merry Christmas 2013 | w1r3d | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/41/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/41/spreadsheet.ods) |
+| 42 | 21932 | PTP Mafia #42 | walala222 | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/42/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/42/spreadsheet.ods) |
+| 43 | 22065 | PTP Mafia #43 | RasDam | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/43/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/43/spreadsheet.ods) |
+| 44 | 22284 | PTP Mafia #44 | alcarithemad | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/44/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/44/spreadsheet.ods) |
+| 45 | 22382 | THE HUG-A-THON | joede224 | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/45/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/45/spreadsheet.ods) |
+| 46 | 23205 | PTP Busty Mafia #46 | Buster | Mafia | :white_check_mark: [xlsx](../../../raw/main/ptp/46/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/46/spreadsheet.ods) |
+| 47 | 23324 | o]8-X-8[o  | Vilhelm | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/47/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/47/spreadsheet.ods) |
+| 47.5 | 23397 | #BreakingBad | soulpopped & joede224 | DEA | :white_check_mark: [xlsx](../../../raw/main/ptp/47.5/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/47.5/spreadsheet.ods) |
+| 48 | 23417 | Into the Deeps | gandy93 | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/48/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/48/spreadsheet.ods) |
+| 49 | 23531 | Back to the Basics | w1r3d | Mafia | :white_check_mark: [xlsx](../../../raw/main/ptp/49/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/49/spreadsheet.ods) |
+| 50 | 23591 | Half-Century of Greatness Edition | soulpopped & joede224 | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/50/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/50/spreadsheet.ods) |
 | 51 | 23731 | Fuck Yeah | garbageface | Town | :white_large_square: |
 | 51.5 | 23675 | Disney | sithlordseth & Vilhelm | Pinocchio Siege | :white_large_square: |
 | 52 | 23817 | PTP Mafia #52 | alcarithemad | Town | :white_large_square: |
