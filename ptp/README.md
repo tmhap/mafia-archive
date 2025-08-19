@@ -156,4 +156,4 @@
 | 151 | 42148 | Portal: No Escape | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/ptp/151/spreadsheet.xls) |
 | 152 | 42721 | Rusty Lake Nightmare | veecou and Landorus | Mafia and Witch | :white_check_mark: [xlsx](../../../raw/main/ptp/152/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/152/spreadsheet.ods) |
 | 153 | 43658 | No More Heroes | TheFranswer | (Yellow) Mafia | :white_check_mark: [xls](../../../raw/main/ptp/153/spreadsheet.xls) |
-| 154 | 45732 | 100 Million Villans | armistice and Faithy | Town | :white_large_square: |
+| 154 | 45732 | 100 Million Villans | armistice and Faithy | Town and Cats | :white_large_square: |
