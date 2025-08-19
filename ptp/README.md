@@ -145,7 +145,7 @@
 | 140 | 38172 | Xenomorph Rising | MrMichael & iSkylla | Xenomorphs (CrkMStanz) & Cat | :white_check_mark: [xlsx](../../../raw/main/ptp/140/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/140/spreadsheet.ods) |
 | 141 | 38421 | Where's My Wand? | TheFranswer | Death Eaters | :white_check_mark: [xls](../../../raw/main/ptp/141/spreadsheet.xls) |
 | 142 | 38574 | It ain't christmas just yet | hotshotxwl & Bliepo | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/142/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/142/spreadsheet.ods) |
-| 143 | 38979 | A Simple Game | Red123 | Town  Jester | :white_check_mark: [xlsx](../../../raw/main/ptp/143/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/143/spreadsheet.ods) |
+| 143 | 38979 | A Simple Game | Red123 | Town Jester | :white_check_mark: [xlsx](../../../raw/main/ptp/143/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/143/spreadsheet.ods) |
 | 144 | 39082 | A Simple Game 2 | Red123 | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/144/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/144/spreadsheet.ods) |
 | 145 | 39213 | Doctor Who: Who Goes There? | TheFranswer | Deadly Assassin crashplan | :white_check_mark: [xls](../../../raw/main/ptp/145/spreadsheet.xls) |
 | 146 | 39365 | Voting Blocs | Red123 | Mafia | :white_check_mark: [xlsx](../../../raw/main/ptp/146/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/146/spreadsheet.ods) |
@@ -156,4 +156,4 @@
 | 151 | 42148 | Portal: No Escape | TheFranswer | Town | :white_check_mark: [xls](../../../raw/main/ptp/151/spreadsheet.xls) |
 | 152 | 42721 | Rusty Lake Nightmare | veecou and Landorus | Mafia and Witch | :white_check_mark: [xlsx](../../../raw/main/ptp/152/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/152/spreadsheet.ods) |
 | 153 | 43658 | No More Heroes | TheFranswer | (Yellow) Mafia | :white_check_mark: [xls](../../../raw/main/ptp/153/spreadsheet.xls) |
-| 154 |  |  |  |  | :white_large_square: |
+| 154 | 45732 | 100 Million Villans | armistice and Faithy | Town | :white_large_square: |
