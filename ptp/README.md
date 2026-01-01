@@ -96,7 +96,7 @@
 | 91 | 28100 | Basic Mafia | orctin & PeterParker & auntiepepper | Town | :white_large_square: |
 | 92 | 28220 | GoT IV: A Feast for Crows | R4 | Baratheons Targaryens | :white_large_square: |
 | 93 | 28406 | New Year's Execution | NanaLynch & auntiepepper | Satanic Cult | :white_large_square: |
-| 94 | 28609 | PTP Mafia #94 | NanaLynch | Town | :white_large_square: |
+| 94 | 28609 | PTP Mafia #94 | NanaLynch | Town | :white_check_mark: [xlsx](../../../raw/main/ptp/94/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/94/spreadsheet.ods) |
 | 95 | 28721 | Return to Horror | orctin | Town | :white_large_square: |
 | 96 | 28893 | PTP Mafia #96 | NanaLynch & Ineluctable | Mafia  Witch 305MrWorldwide | :white_check_mark: [xlsx](../../../raw/main/ptp/96/spreadsheet.xlsx) \| [ods](../../../raw/main/ptp/96/spreadsheet.ods) |
 | 97 | 29054 | Bombs Away V2! | auntiepepper | Town | :white_large_square: |
